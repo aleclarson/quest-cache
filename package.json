@@ -1,0 +1,7 @@
+{
+  "name": "quest-cache",
+  "version": "0.0.1",
+  "dependencies": {
+    "quest": "aleclarson/quest#0.0.1"
+  }
+}
